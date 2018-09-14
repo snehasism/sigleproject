@@ -1,4 +1,8 @@
 Test1
 Test2
 Test3
+<<<<<<< HEAD
 Test4
+=======
+TEST5
+>>>>>>> fe1822766b8a977f836769c38ef02f1cbc447d3f
